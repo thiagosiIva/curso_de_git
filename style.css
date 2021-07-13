@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 10px;
+}
+#menu li{
+    list-style-type: none;
+    display: inline;
+    margin: 5px 10px;
+    border: 1px solida black;
+
+
+}
+#menu li:hover{
+    background-color: pink;
+}
+#menu{
+    margin: 0;
+}
